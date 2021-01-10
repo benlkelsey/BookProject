@@ -1,3 +1,4 @@
 introduction-to-r
 the-pool-of-tears
 a-caucus-race-and-a-long-tale
+intermediate-r
